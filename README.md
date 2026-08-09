@@ -75,7 +75,7 @@ The full dashboard covers 4 pages — Executive Summary, Customer Analysis, Rout
 | `Logistics_Operations_Database_Setup.sql` | Creates all 14 tables and loads data into PostgreSQL |
 | `Logistics_Operations_Analysis_Views.sql` | Creates 7 analytical SQL views used in the dashboard |
 | `Logistics_Operations_Dashboard.pdf` | Exported Power BI dashboard — all 4 pages |
-| `Logistics_Operations_Analysis_Report.docx` | Full written report with findings and recommendations |
+| `Logistics_Operations_Analysis_Report.pdf` | Full written report with findings and recommendations |
 
 ---
 
