@@ -62,17 +62,9 @@ To process and analyse the data effectively, I used a multi-tool pipeline:
 
 ## Dashboard Preview
 
-### Executive Summary
-![Executive Summary](screenshots/01_Executive_Summary.png)
+The full dashboard covers 4 pages — Executive Summary, Customer Analysis, Route & Maintenance, and Safety Analysis.
 
-### Customer Analysis
-![Customer Analysis](screenshots/02_Customer_Analysis.png)
-
-### Route & Maintenance Analysis
-![Route and Maintenance](screenshots/03_Route_and_Maintenance.png)
-
-### Safety Analysis
-![Safety Analysis](screenshots/04_Safety_Analysis.png)
+📄 [Click here to view the full dashboard](Logistics_Operation_Dashboard.pdf)
 
 ---
 
